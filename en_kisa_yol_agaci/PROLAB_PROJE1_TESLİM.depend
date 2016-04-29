@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1460631911 source:c:\users\emre\desktop\prolab_proje1_tesl›m\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<stdio.h>
+	<allegro.h>
+
